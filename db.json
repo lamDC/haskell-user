@@ -1,8 +1,8 @@
-{
- "users": {
+[
+  {
    "firstName" : "Diégo",
     "lastName" : "Cup",
     "age" : 22,
     "email" : "diegocup@gmail.com"
- }
-}
+  }
+]

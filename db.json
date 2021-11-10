@@ -1,6 +1,7 @@
 [
-  {
-   "firstName" : "Diégo",
+  "users" : {
+    "id" : 1
+    "firstName" : "Diégo",
     "lastName" : "Cup",
     "age" : 22,
     "email" : "diegocup@gmail.com"

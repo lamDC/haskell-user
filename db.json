@@ -1,8 +1,15 @@
 {
-  "users" : {
+  {
     "id" : 1,
     "firstName" : "Diégo",
     "lastName" : "Cup",
+    "age" : 22,
+    "email" : "diegocup@gmail.com"
+  },
+  {
+    "id" : 2,
+    "firstName" : "Dylan",
+    "lastName" : "Churo",
     "age" : 22,
     "email" : "diegocup@gmail.com"
   }

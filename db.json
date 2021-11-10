@@ -1,4 +1,4 @@
-[
+
   "users" : {
     "id" : 1,
     "firstName" : "Diégo",
@@ -6,4 +6,4 @@
     "age" : 22,
     "email" : "diegocup@gmail.com"
   }
-]
+
